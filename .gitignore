@@ -1,0 +1,6 @@
+HeadHunterProject.txt
+**/__pycache__/
+login_password.txt
+config/
+*.log
+!model.log
